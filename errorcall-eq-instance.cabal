@@ -2,7 +2,8 @@ name:             errorcall-eq-instance
 version:          0.0.0
 category:         Control
 synopsis:         An orphan Eq instance for ErrorCall
-description:      An orphan Eq instance for ErrorCall
+description:      Prior to @base-4.7.0.0@ there was no @Eq@ instance for
+                  @ErrorCall@.  This package provides an orphan instance.
 license:          MIT
 license-file:     LICENSE
 copyright:        (c) 2013 Simon Hengel
