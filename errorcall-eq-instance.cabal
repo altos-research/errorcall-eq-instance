@@ -1,5 +1,5 @@
 name:             errorcall-eq-instance
-version:          0.0.0
+version:          0.1.0
 category:         Control
 synopsis:         An orphan Eq instance for ErrorCall
 description:      Prior to @base-4.7.0.0@ there was no @Eq@ instance for
